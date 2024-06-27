@@ -1,0 +1,33 @@
+baseURL = 'https://slimsag.com'
+languageCode = 'en-us'
+title = "slimsag"
+theme = "minimal"
+paginate = 5
+disablePathToLower=true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
+
+[markup.highlight]
+noClasses=false
+
+[params]
+mainSections = ['2024']
+rss = true
+debug_opengraph_images = false
+
+[taxonomies]
+category = "categories"
+
+[mediaTypes]
+  [mediaTypes.'video/mp4']
+    suffixes = ['mp4']
+  [mediaTypes.'video/ogg']
+    suffixes = ['ogv']
+  [mediaTypes.'video/webm']
+    suffixes = ['webm']

@@ -1,0 +1,45 @@
+{{ $images := $.Resources.ByType "image" }}
+{{ $featured := $images.GetMatch "*opengraph*" }}
+{{ if not $featured }}
+    {{ $featured = resources.Get "/opengraph/template.png" }}
+
+    {{ $textOptions := dict }}
+    {{ $text := "" }}
+
+    <!-- Draw topic in top-left of image -->
+    {{ $textOptions = dict 
+        "color" "#000"
+        "size" 60
+        "lineSpacing" 10
+        "x" 60 "y" 10
+        "font" (resources.Get "/opengraph/Orbitron-ExtraBold.ttf")
+    }}
+    {{ $featured = $featured | images.Filter (images.Text $text $textOptions) }}
+
+    <!-- Draw title -->
+    {{ with $.Params.short_title }}
+        {{ $text = $.Params.short_title }}
+    {{ else }}
+        {{ $text = $.LinkTitle }}
+    {{ end }}
+    {{ $text_size := 120 }}
+    {{ if ge (len $text) 20 }}
+        {{ $textOptions = dict 
+            "color" "#000"
+            "size" 90
+            "lineSpacing" 10
+            "x" 440 "y" 100
+            "font" (resources.Get "/opengraph/Orbitron-ExtraBold.ttf")
+        }}
+    {{ else }}
+        {{ $textOptions = dict 
+            "color" "#000"
+            "size" 120
+            "lineSpacing" 10
+            "x" 360 "y" 40
+            "font" (resources.Get "/opengraph/Orbitron-ExtraBold.ttf")
+        }}
+    {{ end }}
+    {{ $featured = $featured | images.Filter (images.Text $text $textOptions) }}
+{{ end }}
+{{ return $featured }}
