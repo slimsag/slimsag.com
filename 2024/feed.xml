@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2024s on slimsag</title><link>https://slimsag.com/2024/</link><description>Recent content in 2024s on slimsag</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://slimsag.com/2024/feed.xml" rel="self" type="application/rss+xml"/><item><title>Slack to destroy >90d history of free communities</title><link>https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/</link><pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate><guid>https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/</guid><description>&lt;p>Slack today sent an announcement email indicating they will delete free workspace content older than a year, and that &amp;ldquo;Free workspaces will continue to have full access to the past 90 days of message history and file storage.&amp;rdquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2024s on slimsag</title><link>https://slimsag.com/2024/</link><description>Recent content in 2024s on slimsag</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://slimsag.com/2024/feed.xml" rel="self" type="application/rss+xml"/><item><title>RFC8667: Sillycon Valley</title><link>https://slimsag.com/2024/rfc8667-sillycon-valley/</link><pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate><guid>https://slimsag.com/2024/rfc8667-sillycon-valley/</guid><description>&lt;p>Proposed variant of / inspired fanatically by &lt;a href="https://www.secrethitler.com">another popular tabletop game&lt;/a>.&lt;/p>
+&lt;h2 id="game-start">GAME START&lt;/h2>
+&lt;ul>
+&lt;li>All players are given a random role:
+&lt;ul>
+&lt;li>One player per game: &lt;code>VC&lt;/code>&lt;/li>
+&lt;li>~40% of players: &lt;code>CEO&lt;/code>
+&lt;ul>
+&lt;li>25% chance one &lt;code>CEO&lt;/code> may be &lt;code>CRYPTO CEO&lt;/code>&lt;/li>
+&lt;li>15% chance one &lt;code>CEO&lt;/code> may be &lt;code>LAB CEO&lt;/code>&lt;/li>
+&lt;li>5% chance one &lt;code>CEO&lt;/code> may be &lt;code>JUICE CEO&lt;/code>&lt;/li>
+&lt;li>5% chance one &lt;code>CEO&lt;/code> may be &lt;code>UNICORN CEO&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>~60% of players: &lt;code>DEV&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>All players are assumed to be good open source &lt;code>DEV&lt;/code>s&lt;/li>
+&lt;li>Nobody can see each other’s roles, except &lt;code>CEO&lt;/code>s can see who is &lt;code>VC&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="deck-function">DECK FUNCTION&lt;/h2>
+&lt;ul>
+&lt;li>40% probability of drawing &lt;code>GROWTH&lt;/code>&lt;/li>
+&lt;li>60% probability of drawing &lt;code>FOSS&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="turns">TURNS&lt;/h2>
+&lt;ul>
+&lt;li>In rotating order, each player will be &amp;rsquo;the &lt;code>1xDEV&lt;/code>&amp;rsquo; and gets to submit a &lt;code>10xDEV&lt;/code> to Hacky News&lt;/li>
+&lt;li>All &lt;code>DEV&lt;/code>s must upvote/downvote the Hacky News submission and decide whether they want to depend on the &lt;code>10xDEV&lt;/code>s work.&lt;/li>
+&lt;li>If the submission doesn’t reach the front page (no majority vote), there is no &lt;code>10xDEV&lt;/code> so &lt;code>goto next_turn;&lt;/code>&lt;/li>
+&lt;li>If the submission would reach the front page, but the &lt;code>10xDEV&lt;/code> is secretly &lt;code>VC&lt;/code>, the &lt;code>VC&lt;/code> shouts &lt;code>IPO!&lt;/code> and wins&lt;/li>
+&lt;li>If the submission reaches the front page, a &lt;code>10xDEV&lt;/code> has been nominated:
+&lt;ul>
+&lt;li>If the &lt;code>10xDEV&lt;/code> is secretly..
+&lt;ul>
+&lt;li>&lt;code>VC&lt;/code> or &lt;code>UNICORN CEO&lt;/code>, they can shout &lt;code>IPO!&lt;/code> and the &lt;code>VC&lt;/code> and &lt;code>CEO&lt;/code> win&lt;/li>
+&lt;li>&lt;code>CRYPTO CEO&lt;/code>, they can invoke &lt;code>CRYPTO!&lt;/code>, flip a coin, if heads they steal all &lt;code>VC&lt;/code> funds and win game for themselves. Tails they go to jail (out of the game entirely.)&lt;/li>
+&lt;li>&lt;code>LAB CEO&lt;/code>, they can invoke &lt;code>FAKE IT TILL YOU MAKE IT!&lt;/code>, flip a coin, if heads they steal all &lt;code>VC&lt;/code> funds and win game for themselves. Tails they go to jail (out of the game entirely.)&lt;/li>
+&lt;li>&lt;code>JUICE CEO&lt;/code>, they can invoke &lt;code>SQUEEZED TO DEATH&lt;/code>, two coin flips, if both heads they can shout &lt;code>IPO!&lt;/code> and &lt;code>VC&lt;/code> and &lt;code>CEO&lt;/code> win, otherwise CEO out of the game entirely.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>If the &lt;code>10xDEV&lt;/code> is actually just a normal open source &lt;code>DEV&lt;/code>:
+&lt;ul>
+&lt;li>The &lt;code>10xDEV&lt;/code> draws 3 random cards, reviews and discards 1, giving the remaining 2 to the &lt;code>1xDEV&lt;/code>&lt;/li>
+&lt;li>The &lt;code>1xDEV&lt;/code> is given 2 cards by the &lt;code>10xDEV&lt;/code>, must discard 1, must play/put-down the other&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="playing-cards">PLAYING CARDS&lt;/h2>
+&lt;ul>
+&lt;li>If five &lt;code>GROWTH&lt;/code> cards are played, the &lt;code>VC&lt;/code> shouts &lt;code>IPO!&lt;/code> and wins&lt;/li>
+&lt;li>If five &lt;code>FOSS&lt;/code> cards are played, the &lt;code>DEV&lt;/code>s win&lt;/li>
+&lt;li>When the 3rd and 4th &lt;code>GROWTH&lt;/code> cards are played, the current &lt;code>10xDEV&lt;/code> chooses one player to suffer &lt;code>BURNOUT&lt;/code> - that player can no longer do anything but talk.&lt;/li>
+&lt;/ul></description></item><item><title>Slack to destroy >90d history of free communities</title><link>https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/</link><pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate><guid>https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/</guid><description>&lt;p>Slack today sent an announcement email indicating they will delete free workspace content older than a year, and that &amp;ldquo;Free workspaces will continue to have full access to the past 90 days of message history and file storage.&amp;rdquo;&lt;/p>
 &lt;p>Just another reason to always be a step ahead and anticipate startups and companies like Slack, GitHub, and Discord will eventually enshittify your usage of their products. Hopefully one day FOSS can actually compete with these services&amp;rsquo; UX.&lt;/p>
 &lt;p>The full announcement email can be viewed below.&lt;/p>
 &lt;p>&lt;a href="https://slimsag.com/img/2024/slack.jpg">&lt;img src="https://slimsag.com/img/2024/slack.jpg" alt="">&lt;/a>&lt;/p></description></item><item><title>The most ridiculous cat photos ever</title><link>https://slimsag.com/2024/meowarmy/</link><pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate><guid>https://slimsag.com/2024/meowarmy/</guid><description>&lt;p>This post is literally just to tell you I put ridiculous cat photos at &lt;a href="https://meow.army">https://meow.army&lt;/a> - enjoy.&lt;/p>
