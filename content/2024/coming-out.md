@@ -108,4 +108,4 @@ Stephen (he/him)
 
 Emi (she/her)
 
-![emi and stephen](/img/2024/emi.jpg)
+![emi and stephen](/img/2024/emi_new.jpg)
