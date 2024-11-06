@@ -105,4 +105,7 @@ As a result, I felt forced today to be public about who I am - to let people kno
 Respectfully, fuck you and peace motherfuckers.
 
 Stephen (he/him)
+
 Emi (she/her)
+
+![emi and stephen](/img/2024/emi.jpg)
