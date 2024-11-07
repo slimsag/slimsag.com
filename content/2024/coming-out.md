@@ -5,7 +5,7 @@ date: "2024-11-06"
 categories:
 - life
 draft: false
-images: []
+images: ["/img/2024/emi_new.jpg"]
 description: "Have you ever wondered what a professional silicon valley software engineer hides for 15 years of their life? In this article you can find out."
 ---
 
