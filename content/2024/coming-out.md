@@ -31,17 +31,17 @@ If you wish to continue being a part of my life, you can write me something shor
 
 ### 'What do I call you?'
 
-Stephen is fine. He/him is fine. They/them is nicer, but I don't mind whatever.
+Emi would be great. Stephen is fine. He/him is fine. They/them is nicer, but I don't mind whatever.
 
-I am optimizing for _your comfort_ because I like to be a pleasing person
+I am optimizing for _your comfort_ instead of mine because I like to be a pleasing person
 
-If you're curious what I call myself it is 'Emi, she/her'
+If you're curious what I call myself it is 'Emi, she/her'. See [my about page](/about) for a TL;DR of how to interact with me.
 
 ### 'I understand, but feel uncomfortable about how to approach you now, is that okay?'
 
 Yes. I'm open to talk, answer questions bluntly and honestly. I suggest only asking questions you are sure you want the answer to.
 
-For friends and family, I am happy to answer questions that you may feel are intrusive, hateful, rude, etc. - I mean this genuinely, you don't need to preface your questions with timidness. I'm an open book and will do my best to give you clarity into how my mind thinks here.
+For friends and family, I am happy to answer questions that you may feel are intrusive, hateful, rude, etc. - I mean this genuinely, you don't need to preface your questions with timidness. I'm an open book and will do my best to give you clarity into how my mind works here.
 
 The uncomfort you are feeling right now about me saying I am a woman - I have lived with that _confusion_, _discomfort_, and at times _fear_ and _anxiety_ for the last 15 years of my life. I'm sorry you're going through that.
 
@@ -53,10 +53,11 @@ Various people have noticed in the past few years changes to my appearance, incl
 * Changes to my weight, chest, or face (I am happy with how I look today)
 * Neon hair colors or long/wild hair styles
 * Wearing my more feminine prescription glasses by accident in Zoom calls
+* etc.
 
 All of these factors of my appearance I have in general tried to hide from you in one form or another - whether through jokes / brushing it off, or by altering my appearance before I see you face to face.
 
-Those aspects I will no longer try to hide from you, because it's frankly fucking annoying to do so. That said, I care about the comfort of people around me and understand that, for example, dressing in a skirt could make you uncomfortable. I have no plans to change how I dress in public, for the comfort of others and safety of myself.
+Those aspects I will no longer try to hide from you, because it's frankly fucking annoying to do so. That said, I care about the comfort of people around me and understand that, for example, dressing in a skirt might make you uncomfortable. I may appear more feminine now, but will still withold my appearance in public for the comfort of others and safety of myself.
 
 ### 'Are you seeking treatment? Drugs? Surgeries?'
 
@@ -98,14 +99,14 @@ It was around this time maybe 4-5 years ago that I knew I _could_ live publicly 
 
 In short, **I was afraid to be public about who I am because I was afraid of how those around me would react.** I thought that living the remainder of my life in private would really not be so bad, and until today that was my intention.
 
-After the historic election results of 2024, I am no longer afraid of those around me. Rather, I am afraid of my entire country. I am afraid that approximately half of my country, in one form or another, feels I am less than human - deserving less of an ability to treat my physical and mental health - and believes my right to live as a person free from government overreach, persecution, and violence - is not important.
+After the historic election results of 2024, **I am no longer afraid of those around me. Rather, I am afraid of my entire country.** I am afraid that approximately half of my country, in one form or another, feels I am less than human - deserving less of an ability to treat my physical and mental health - and believes my right to live as a person free from government overreach, persecution, and violence - is not important.
 
 As a result, I felt forced today to be public about who I am - to let people know we are out there, hiding in the shadows among you, terrified of the reckless decisions you make that affect the remainder of my short life.
 
 Respectfully, fuck you and peace motherfuckers.
 
-Stephen (he/him)
+Stephen (he/him) | Emi (they/them/she/her)
 
-Emi (she/her)
+<img src="/android-chrome-512x512.png" style="width: 400px; float: left; align-self: start !important; margin-left: 1rem;">
 
 ![emi and stephen](/img/2024/emi_new.jpg)
