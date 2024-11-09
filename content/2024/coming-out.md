@@ -107,6 +107,4 @@ Respectfully, fuck you and peace motherfuckers.
 
 Stephen (he/him) | Emi (they/them/she/her)
 
-<img src="/android-chrome-512x512.png" style="width: 400px; float: left; align-self: start !important; margin-left: 1rem;">
-
 ![emi and stephen](/img/2024/emi_new.jpg)
