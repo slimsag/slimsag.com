@@ -16,11 +16,11 @@ This page is a tl;dr for coworkers, professional peers, etc. who want to quickly
 
 ## What are your pronouns?
 
-**They/them is fantastic.**
+She/her.
 
-**If you slip up and call me 'he', 'him', 'dude', 'hey man', etc. or my old name, don't worry about it** - I've been hearing that my whole life and it doesn't personally phase me much. I understand that many people have never interacted with a trans person before, and I try to optimize for your personal comfort when interacting with you. This, of course, is just me.
+**If you slip up and call me 'he', 'him', 'dude', 'hey man', etc. or my old name, you don't need to apologize or anything** - I've been hearing that my whole life and a few more times won't hurt me. =) I understand that many people have never interacted with a trans person before, and I am very understanding of where you are coming from and how tricky breaking habbits can be. As long as you try your best to respect me, I'll appreciate you for that! =)
 
-I have a slight preference towards she/her in written text and they/them in verbal communication - but I understand that gets pretty confusing so really pick whichever is more comfortable for you! When in doubt, they/them is fantastic for me - so feel free to use that all the time.
+I also accept they/them pronouns, in case that is more comfortable for anyone interacting with me!
 
 ## Where can I read more about your journey?
 
@@ -28,12 +28,12 @@ I wrote about it in [this blog post](https://emidoots.com/2024/coming-out/) (war
 
 ## Where can I find you?
 
-You can find me on [GitHub](https://github.com/emidoots), [Hacker news](https://news.ycombinator.com/threads?id=emidoots), or here.
+You can find me doing open source work on [GitHub](https://github.com/emidoots), sharing technical and other opinions on [Hacker news](https://news.ycombinator.com/threads?id=emidoots), or here.
 
-I [write about game development](https://devlog.hexops.com/), am building [the Mach game engine](https://machengine.org/) in Zig, and when I'm not working with computers you can usually find me wrangling my [small cat shelter's worth of kittos](/categories/kittos) - or [gardening](/categories/gardening).
+I [write about game development](https://devlog.hexops.com/), am building [Mach, the Zig game engine](https://machengine.org/), and when I'm not working with computers you can usually find me wrangling my [small cat shelter's worth of kittos](/categories/kittos) - or [gardening](/categories/gardening).
 
 ## What is this website?
 
 This website's purpose is to replace my old usage of Twitter, so now you can have an RSS feed to my dumb ideas instead.
 
-A lot of what I post here is stupid unprofessional jokes, pictures, etc. Sometimes I post programming related content, other times I post serious content.
+This is my 'less professional' personal blog, you can find [my professional technical writing here](https://devlog.hexops.com).
