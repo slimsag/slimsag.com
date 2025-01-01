@@ -24,11 +24,11 @@ I have a slight preference towards she/her in written text and they/them in verb
 
 ## Where can I read more about your journey?
 
-I wrote about it in [this blog post](https://slimsag.com/2024/coming-out/) (warning: contains mild profanity and political statements.)
+I wrote about it in [this blog post](https://emidoots.com/2024/coming-out/) (warning: contains mild profanity and political statements.)
 
 ## Where can I find you?
 
-You can find me on [GitHub](https://onlybits.org/slimsag), [Hacker news](https://news.ycombinator.com/threads?id=slimsag), or here.
+You can find me on [GitHub](https://github.com/emidoots), [Hacker news](https://news.ycombinator.com/threads?id=emidoots), or here.
 
 I [write about game development](https://devlog.hexops.com/), am building [the Mach game engine](https://machengine.org/) in Zig, and when I'm not working with computers you can usually find me wrangling my [small cat shelter's worth of kittos](/categories/kittos) - or [gardening](/categories/gardening).
 

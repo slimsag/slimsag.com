@@ -1,6 +1,6 @@
-baseURL = 'https://slimsag.com'
+baseURL = 'https://emidoots.com'
 languageCode = 'en-us'
-title = "slimsag"
+title = "emidoots"
 theme = "minimal"
 paginate = 5
 disablePathToLower=true

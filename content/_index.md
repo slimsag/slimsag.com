@@ -1,8 +1,8 @@
 ---
-title: "slimsag"
-description: "Unprofessional thought feed; my trash, your treasure"
+title: "emidoots"
+description: "Software engineer. Pianist, gardener, and keeper of kittos."
 draft: false
 rss_ignore: true
 images: []
-short_title: "Unprofessional thought feed; my trash, your treasure"
+short_title: "Software engineer. Pianist, gardener, and keeper of kittos."
 ---
